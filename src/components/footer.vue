@@ -108,7 +108,7 @@ export default {
           <div class="col-lg-12">
             <div class="float-left pull-none">
               <p class="copy-rights text-muted">
-                {{ new Date().getFullYear() }} © Axis - Themesbrand
+                {{ new Date().getFullYear() }} © Axis - Shadiq Sharma
               </p>
             </div>
             <div class="float-right pull-none">
